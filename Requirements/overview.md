@@ -21,7 +21,7 @@ The requirements are organized into thematic groupings based on operational pers
 
 | Grouping | Description | Link |
 |----------|-------------|------|
-| VO/RPIC Awareness Requirements | Requirements related to visual situational awareness, perception, and interpretation from the Visual Observer and Remote Pilot in Command perspectives. | [VO/RPIC Requirements](./vo-rpic/) |
+| VO/RPIC Awareness Requirements | Requirements related to visual situational awareness, perception, and interpretation from the Visual Observer and Remote Pilot in Command perspectives. | [VO/RPIC Requirements](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/VO-RPIC.md) |
 | (More coming) | Additional groupings will be added as analysis continues. | — |
 
 ---
