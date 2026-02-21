@@ -1,0 +1,9 @@
+## Team Situational Awareness and Information Sharing Requirements
+
+This section captures requirements derived from SIGACTs that reveal challenges related to maintaining shared situational awareness across team roles, particularly when information about mission or vehicle state is unevenly distributed. These SIGACTs highlight situations where operators must rely on others as information intermediaries, leading to increased communication overhead, reduced independence, and potential misalignment of mental models.
+
+The requirements documented here focus on ensuring that all operational roles have sufficient access to relevant system and mission state to maintain their own understanding of the evolving situation without unnecessary reliance on continuous verbal updates. Each entry includes the observed issue, an interpretation of the root problem, a main requirement, a derived requirement, and an example non-functional requirement with a fit criterion.
+
+| ID | SIGACT | Root Problem | Main Requirement | Derived | NFR Example |
+|----|--------|-------------|------------------|---------|-------------|
+| S7 | VO/RPIC have to constantly confirm sUAS and mission status with TO to maintain situational awareness | VO/RPIC lack direct access to mission and vehicle state information needed to maintain their own situational awareness, resulting in reliance on the Tactical Operator as an information proxy and repeated confirmation loops. | The VO/RPIC interfaces shall provide access to mission and sUAS status information sufficient for operators to maintain situational awareness without relying on continuous verbal updates from the Tactical Operator. | Mission and sUAS status information available to the VO/RPIC shall be consistent with information available to the Tactical Operator. | VO/RPIC shall correctly answer queries about current sUAS or mission status in at least P% of trials without requesting clarification from the Tactical Operator. |
