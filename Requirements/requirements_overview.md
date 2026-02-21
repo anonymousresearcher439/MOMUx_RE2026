@@ -2,7 +2,9 @@
 
 This repository documents requirements derived from analysis of Operationally Significant Events (SIGACTs) observed during multi-operator, multi-UAS supervisory missions. The goal of this artifact is to provide transparency into how observed operational challenges are interpreted and translated into actionable requirements that can inform system design, evaluation, and future research.
 
-The requirements captured here are not intended to represent a complete or finalized specification. Instead, they reflect an evolving understanding of supervisory needs as new observations are analyzed and interpretations are refined. As additional SIGACTs are studied, new requirements may be added and existing ones may be revised.
+The requirements captured here are not intended to represent a complete or finalized specification for each SIGACT. Instead, they serve as examples of how a SIGACT can be translated into requirements, reflecting an evolving understanding of supervisory needs as new observations are analyzed and interpretations are refined.
+
+Where appropriate, requirements are expressed using principles from the Easy Approach to Requirements Syntax (EARS) [LINK COMING] to promote clarity and consistency in specifying system capabilities. Non-functional requirements are illustrated using Robertson and Robertson’s concept of Fit Criteria [LINK COMING] to provide measurable examples of how requirements could be evaluated in practice.
 
 For each SIGACT, we document:
 
@@ -11,7 +13,7 @@ For each SIGACT, we document:
 - One derived requirement that refines or supports the main requirement
 - One example non-functional requirement (NFR) with a fit criterion that illustrates how the requirement could be evaluated
 
-This structure is intended to maintain traceability between observed operational breakdowns and the requirements that address them, while keeping the artifact lightweight and extensible.
+This structure is intended to maintain traceability between observed operational breakdowns and the requirements that address them, while keeping the artifacts lightweight and extensible.
 
 ---
 
