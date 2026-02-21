@@ -26,6 +26,7 @@ The requirements are organized into thematic groupings based on operational pers
 | VO/RPIC Awareness Requirements | Requirements related to visual situational awareness, perception, and interpretation from the Visual Observer and Remote Pilot in Command perspectives. | [VO/RPIC Requirements](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/VO-RPIC.md) |
 | Team Coordination | Requirements related to shared situational awareness and access to mission information across operational roles. | [Teamwork Requirements](https://github.com/anonymousresearcher439/MOMUx_RE2026/new/main/Requirements)|
 | Geospatial Understanding and Representation Alignment | Requirements focused on supporting operators in aligning maps, planned trajectories, and real-world observations to reason about aircraft position and movement. | [Spatial Perspectives Requirements](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/spatial-perspectives.md) |
+| Intent Awareness and Behavior Understanding | Requirements focused on helping operators understand and explain autonomous system behavior during operations. | [Intent Awareness Requirements](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md) |
 
 ---
 
