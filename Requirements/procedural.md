@@ -1,0 +1,9 @@
+# Procedural Observations and Implications
+
+This section captures operationally significant events (SIGACTs) that suggest the need for procedural clarification, training, or coordination practices rather than new system capabilities. While these observations reveal breakdowns in coordination or shared understanding, analysis indicates that they are more appropriately addressed through operational procedures, role expectations, or communication norms.
+
+Including these observations separately helps maintain a clear boundary between system requirements and procedural guidance, while preserving traceability to observed events. The procedures described here are not intended to prescribe detailed standard operating procedures, but rather to highlight areas where explicit coordination practices may reduce the likelihood of similar breakdowns.
+
+| ID | SIGACT | Root Problem (Interpretation) | Procedural Implication |
+|----|--------|-------------------------------|------------------------|
+| S18 | The Tactical Operator demonstrated uncertainty about what mission or vehicle information the VO/RPIC required during coordination, leading to gaps or delays in information sharing. | This observation reflects a lack of shared expectations regarding what information should be proactively communicated between roles. While procedural in nature, this issue interacts with the capability awareness captured in S17, as improved visibility into roles and information ownership may help operators better understand when to communicate needs. | Operational roles should explicitly communicate their information needs during mission planning or briefings, and establish expectations for what updates should be proactively shared during operations, complementing system support for identifying information sources described in S17. |
