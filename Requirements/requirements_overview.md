@@ -15,7 +15,7 @@ For each SIGACT, we document:
 
 This structure is intended to maintain traceability between observed operational breakdowns and the requirements that address them, while keeping the artifacts lightweight and extensible.  
 
-The interactive process, supported by GPT 5.o, that was used to translate SIGACTS to Requirements is documented [here](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/requirements_derivation_process.md).
+The interactive process, supported by GPT 5.2, that was used to translate SIGACTS to Requirements is documented [here](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/requirements_derivation_process.md).
 
 ---
 
