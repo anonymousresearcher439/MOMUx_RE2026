@@ -2,6 +2,16 @@
 
 | SIGACT | Short Description | Category |
 |--------|------------------|----------|
+| S1 | VO/RPIC fail to reacquire drone locations after attentional shift | |
+| S2 | VO/RPIC lose visual line-of-sight due to distance or occlusion |  |
+| S3 | VO/RPIC fail to understand what movements or activities sUAS are performing | |
+| S4 | VO/RPIC have difficulty estimating velocity | |
+| S5 | VO/RPIC lose ability to estimate altitude and proximity to obstacles |  |
+| S6 | VO/RPIC lose target discrimination due to distance | |
+| S7 | VO/RPIC have to constantly confirm sUAS and mission status with TO to maintain situational awareness | |
+| S8 | VO/RPIC shift attention to GUI and lose continuous visual monitoring ||
+| S9 | VO/RPIC fail to find spatiotemporal support from 2D printed path map | |
+| S10 | TO loses perception of sUAS closeness in 2D view when vertically separated | |
 | S11 | Operators lacked awareness of autonomous system intent or planned behavior during operations. | Intent Awareness and Behavior Understanding |
 | S12 | Operators were uncertain whether aircraft were following planned trajectories or deviating from expected paths. | Intent Awareness and Behavior Understanding |
 | S13 | Operators misclassified normal behavior as abnormal or lacked clear cues to interpret system-reported abnormal conditions. | Intent Awareness and Behavior Understanding |
