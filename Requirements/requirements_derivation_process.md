@@ -4,7 +4,7 @@ This page describes the process used to derive candidate requirements from Opera
 
 ## Process Summary
 
-Requirement derivation followed an iterative socio-technical workflow. For each SIGACT, the research team developed an initial interpretation of the underlying problem, used GPT-5.2 to generate and challenge candidate framings, and then iteratively refined wording and scope until the requirement was sufficiently clear, distinct, and traceable to the observation.
+Requirement derivation followed an iterative socio-technical workflow. For each SIGACT, the research team developed an initial interpretation of the underlying problem. They then used GPT-5.2 to interactively explore candidate framings, and to iteratively refine wording and scope until the requirement was sufficiently clear, distinct, and traceable to the observation.
 
 ## Step 1 — Interpret the SIGACT (Research Team)
 
