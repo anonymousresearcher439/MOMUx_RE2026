@@ -29,7 +29,7 @@ The requirements are organized into thematic groupings based on operational pers
 | Team Coordination | Requirements related to shared situational awareness and access to mission information across operational roles. | [Teamwork Requirements](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/team-coordination.md)|
 | Geospatial Understanding and Representation Alignment | Requirements focused on supporting operators in aligning maps, planned trajectories, and real-world observations to reason about aircraft position and movement. | [Spatial Perspectives Requirements](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/spatial-perspectives.md) |
 | Intent Awareness and Behavior Understanding | Requirements focused on helping operators understand and explain autonomous system behavior during operations. | [Intent Awareness Requirements](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md) |
-| Procedural Observations and Implications | Observations captured as procedural guidance rather than system requirements, reflecting current scope decisions while maintaining traceability to SIGACTs. | [Procedural Observations] |
+| Procedural Observations and Implications | Observations captured as procedural guidance rather than system requirements, reflecting current scope decisions while maintaining traceability to SIGACTs. | [Procedural Observations](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/procedural.md) |
 
 ---
 
