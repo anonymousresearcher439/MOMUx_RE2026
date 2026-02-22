@@ -1,4 +1,5 @@
 # MOMUx_RE2026
 
-Assuming this will have some overview and links to several different things.  So I have started to create a separate requirements page with links to (currently 3) groupings of requirements.  Lots more to do.  
-Note: Once all requirements are in place we can review them.  But I want to get them all up first.
+Quick links for now:
+Here is a [link](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/SIGACTS/listing.md) from SIGACTS to requirements categories. 
+Here is a [link]() to the requirements overview.
