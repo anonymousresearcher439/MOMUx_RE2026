@@ -25,11 +25,11 @@
 | S23 | Command-and-control hierarchy collapsed when roles issued conflicting or unclear authority regarding manual override. | [Team Coordination](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/team-coordination.md) |
 | S24 | Operators engaged in permission-seeking loops regarding manual override decisions, reflecting unclear authority or decision criteria. | [Team Coordination](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/team-coordination.md) |
 | S25 | Control decisions were not consistently communicated across roles, leading to uncertainty about aircraft control state. | [Team Coordination](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/team-coordination.md) |
-| S26 | RPIC failed to notice system alerts due to competing attention demands. | Alert Management |
-| S27 | RPIC experienced alert saturation due to high alert frequency during critical phases. | Alert Management |
-| S28 | Alerts were internally acknowledged but not communicated to the team. | Alert Management |
-| S29 | Operators failed to communicate the correct aircraft identity associated with alerts. | Alert Management |
-| S30 | Tactical Operator did not know which aircraft an alert referred to. | Alert Management |
+| S26 | RPIC failed to notice system alerts due to competing attention demands. | [Alert Management](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/alerts.md) |
+| S27 | RPIC experienced alert saturation due to high alert frequency during critical phases. |[Alert Management](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/alerts.md) |
+| S28 | Alerts were internally acknowledged but not communicated to the team. | [Alert Management](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/alerts.md) |
+| S29 | Operators failed to communicate the correct aircraft identity associated with alerts. | [Alert Management](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/alerts.md) |
+| S30 | Tactical Operator did not know which aircraft an alert referred to. | [Alert Management](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/alerts.md) |
 | S31 | Team failed to notice abnormal aircraft behavior until a formal alert occurred.  (maps to S12, S13)| [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md)|
 | S32 | Team hesitated to take manual override due to insufficient confidence or data to confirm concerns. (maps to S14) |  [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md)|
-| S34 | Team normalized alerts due to unclear reasons or lack of observable abnormality. | Alert Management |
+| S34 | Team normalized alerts due to unclear reasons or lack of observable abnormality. | [Alert Management](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/alerts.md) |
