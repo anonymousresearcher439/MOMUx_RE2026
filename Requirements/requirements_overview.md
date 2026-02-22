@@ -4,7 +4,7 @@ This repository documents requirements derived from analysis of Operationally Si
 
 The requirements captured here are not intended to represent a complete or finalized specification for each SIGACT. Instead, they serve as examples of how a SIGACT can be translated into requirements, reflecting an evolving understanding of supervisory needs as new observations are analyzed and interpretations are refined.
 
-Where appropriate, requirements are expressed using principles from the Easy Approach to Requirements Syntax (EARS) [LINK COMING] to promote clarity and consistency in specifying system capabilities. Non-functional requirements are illustrated using Robertson and Robertson’s concept of Fit Criteria [LINK COMING] to provide measurable examples of how requirements could be evaluated in practice.
+Where appropriate, requirements are expressed using principles from the Easy Approach to Requirements Syntax (EARS) [LINK COMING] to promote clarity and consistency in specifying system capabilities. Non-functional requirements are illustrated using Robertson and Robertson’s concept of Fit Criteria [LINK COMING] to provide measurable examples of how requirements could be evaluated in practice. A project glossary is defined [here](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/glossary.md).
 
 For each SIGACT, we document:
 
