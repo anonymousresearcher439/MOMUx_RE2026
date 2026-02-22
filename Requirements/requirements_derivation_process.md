@@ -16,11 +16,11 @@ For each SIGACT, the research team first reasoned about what the event revealed,
 - What risks or downstream consequences did the breakdown introduce?
 - Is the issue specific to the study context or likely to generalize?
 
-This step anchored the process in expert judgment rather than automated synthesis.
+This step anchored the process in expert judgment and contextual knowledge derived from diverse data sources collected during the study.  These sources included eye-tracking, think-aloud, SAGAT, post-study interviews, and general observation notes. 
 
 ## Step 2 — Generate Candidate Framings (Initial Prompts to GPT-5.2)
 
-The team then used structured prompts to explore candidate interpretations and requirement directions. Prompts emphasized framing and scoping before drafting, for example:
+The team then used structured prompts to GPT-5.2 to explore candidate interpretations and requirement directions. Prompts emphasized framing and scoping before drafting, for example:
 
 - Does this overlap with existing requirements?
 - Which category does it belong in?
@@ -31,7 +31,7 @@ GPT-5.2 was used to propose alternative framings, surface assumptions, and sugge
 
 ## Step 3 — Iterative Refinement (Interactive Dialogue)
 
-Most requirements were shaped through back-and-forth refinement. Iterations focused on improving clarity and ensuring requirements were genuinely derived (not restatements). Common refinement moves included:
+Most requirements were shaped through back-and-forth refinement between researchers and GPT 5.2. Iterations focused on improving clarity and ensuring requirements were genuinely derived (not restatements). Common refinement moves included:
 
 - Tightening language to reduce ambiguity and repetition
 - Separating “as observed” SIGACT wording from broader interpretation in the root problem
