@@ -13,9 +13,9 @@
 | S9 | VO/RPIC fail to find spatiotemporal support from 2D printed path map | |
 | S10 | TO loses perception of sUAS closeness in 2D view when vertically separated | |
 | S11 | Operators lacked awareness of autonomous system intent or planned behavior during operations. | Intent Awareness and Behavior Understanding |
-| S12 | Operators were uncertain whether aircraft were following planned trajectories or deviating from expected paths. | Intent Awareness and Behavior Understanding |
-| S13 | Operators misclassified normal behavior as abnormal or lacked clear cues to interpret system-reported abnormal conditions. | Intent Awareness and Behavior Understanding |
-| S14 | Operators either assumed manual control for behavior later determined to be normal or hesitated to intervene due to insufficient confidence or data to confirm concerns. | Intent Awareness and Behavior Understanding |
+| S12 | Operators were uncertain whether aircraft were following planned trajectories or deviating from expected paths. | [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md) |
+| S13 | Operators misclassified normal behavior as abnormal or lacked clear cues to interpret system-reported abnormal conditions. |  [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md) |
+| S14 | Operators either assumed manual control for behavior later determined to be normal or hesitated to intervene due to insufficient confidence or data to confirm concerns. |  [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md)|
 | S17 | VO/RPIC were unaware of the Tactical Operator’s GUI capabilities and available data streams, leading to confusion about where relevant mission or vehicle information could be obtained during coordination. | Team Coordination |
 | S18 | TO was unsure what information VO/RPIC needed, reflecting a breakdown in shared understanding of information needs. | Procedural Observations and Implications |
 | S19 | Incompatible altitude reference frames created confusion in interpreting aircraft altitude across roles. | Geospatial Understanding and Representation Alignment |
@@ -30,6 +30,6 @@
 | S28 | Alerts were internally acknowledged but not communicated to the team. | Alert Management |
 | S29 | Operators failed to communicate the correct aircraft identity associated with alerts. | Alert Management |
 | S30 | Tactical Operator did not know which aircraft an alert referred to. | Alert Management |
-| S31 | Team failed to notice abnormal aircraft behavior until a formal alert occurred. | Intent Awareness and Behavior Understanding (maps to S12, S13) |
-| S32 | Team hesitated to take manual override due to insufficient confidence or data to confirm concerns. | Intent Awareness and Behavior Understanding (maps to S14) |
+| S31 | Team failed to notice abnormal aircraft behavior until a formal alert occurred.  (maps to S12, S13)| [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md)|
+| S32 | Team hesitated to take manual override due to insufficient confidence or data to confirm concerns. (maps to S14) |  [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md)|
 | S34 | Team normalized alerts due to unclear reasons or lack of observable abnormality. | Alert Management |
