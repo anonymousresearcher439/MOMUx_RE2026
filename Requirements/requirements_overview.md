@@ -35,3 +35,4 @@ The requirements are organized into thematic groupings based on operational pers
 - Placeholders such as *T* (time) and *P%* (performance threshold) indicate values that may be calibrated through experimentation or operational tuning.
 - Requirements are intentionally phrased to avoid prescribing specific interface designs unless necessary.
 - This artifact is part of a replication package and is intended to support reuse, review, and future refinement.
+- Prioritization and feasibility analysis are intentionally out of scope; this artifact focuses on identifying supervisory needs grounded in observed operations.
