@@ -12,7 +12,7 @@
 | S8 | VO/RPIC shift attention to GUI and lose continuous visual monitoring ||
 | S9 | VO/RPIC fail to find spatiotemporal support from 2D printed path map | |
 | S10 | TO loses perception of sUAS closeness in 2D view when vertically separated | |
-| S11 | Operators lacked awareness of autonomous system intent or planned behavior during operations. | Intent Awareness and Behavior Understanding |
+| S11 | Operators lacked awareness of autonomous system intent or planned behavior during operations. | [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md)|
 | S12 | Operators were uncertain whether aircraft were following planned trajectories or deviating from expected paths. | [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md) |
 | S13 | Operators misclassified normal behavior as abnormal or lacked clear cues to interpret system-reported abnormal conditions. |  [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md) |
 | S14 | Operators either assumed manual control for behavior later determined to be normal or hesitated to intervene due to insufficient confidence or data to confirm concerns. |  [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md)|
