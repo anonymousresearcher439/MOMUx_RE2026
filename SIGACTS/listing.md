@@ -1,6 +1,6 @@
 
 
-| SIGACT | Short Description | Category |
+| SIGACT | SIGACT short description | Category |
 |--------|------------------|----------|
 | S1 | VO/RPIC fail to reacquire drone locations after attentional shift | [Geospatial Understanding and alignment](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/spatial-perspectives.md) |
 | S2 | VO/RPIC lose visual line-of-sight due to distance or occlusion | [Geospatial Understanding and alignment](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/spatial-perspectives.md) |
