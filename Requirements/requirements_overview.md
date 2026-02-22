@@ -13,7 +13,9 @@ For each SIGACT, we document:
 - One derived requirement that refines or supports the main requirement
 - One example non-functional requirement (NFR) with a fit criterion that illustrates how the requirement could be evaluated
 
-This structure is intended to maintain traceability between observed operational breakdowns and the requirements that address them, while keeping the artifacts lightweight and extensible.
+This structure is intended to maintain traceability between observed operational breakdowns and the requirements that address them, while keeping the artifacts lightweight and extensible.  
+
+The interactive process, supported by GPT 5.o, that was used to translate SIGACTS to Requirements is documented [here](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/procedural.md).
 
 ---
 
