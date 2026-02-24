@@ -36,3 +36,4 @@
 | S32 | Team hesitated to take manual override due to insufficient confidence or data to confirm concerns. (maps to S14) |  [Intent Awareness and Behavior Understanding](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/intent-awareness.md)|
 | S33 | Team failed to identify the abnormality connected to the system alert due to lack of information and visible cues. |  [Alert Management](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/alerts.md)|
 | S34 | Team normalized alerts due to unclear reasons or lack of observable abnormality. | [Alert Management](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/alerts.md) |
+| S35 | Operators focused disproportionally on certain sUAS, especially while abnormalities were detected, failing to monitor the remaining aircraft. | [] |
