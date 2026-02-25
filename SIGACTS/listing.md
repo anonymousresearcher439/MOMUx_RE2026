@@ -37,4 +37,4 @@
 | S33 | Team failed to identify the abnormality connected to the system alert due to lack of information and visible cues. |  [Alert Management](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/alerts.md)|
 | S34 | Team normalized alerts due to unclear reasons or lack of observable abnormality. | [Alert Management](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/alerts.md) |
 | S35 | Operators focused disproportionally on certain sUAS, especially while abnormalities were detected, failing to monitor the remaining aircraft. | [] |
-| S36 | Operators had difficulty to re-acquire sUAS locations after SAGAT freezes, representing an environmental distraction. | [] |
+| S36 | The VO/RPIC had difficulty to re-acquire sUAS locations after SAGAT freezes, representing an environmental distraction. | [] |
