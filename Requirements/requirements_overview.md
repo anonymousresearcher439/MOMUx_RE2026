@@ -17,6 +17,19 @@ This structure is intended to maintain traceability between observed operational
 
 The interactive process, supported by GPT 5.2, that was used to translate SIGACTS to Requirements is documented [here](https://github.com/anonymousresearcher439/MOMUx_RE2026/blob/main/Requirements/requirements_derivation_process.md).
 
+## Prior Awareness Score (1–5)
+
+Each primary requirement is assigned a **Prior Awareness Score (1–5)** reflecting how well the issue was recognized in field practice *prior to the MOMUx study*.
+
+**Scale Definition:**
+
+- **1 – Unidentified:** The issue had not previously been identified.
+- **2 – Encountered but Unrecognized:** The issue had been experienced in practice but not explicitly recognized as a recurring or systematic problem.
+- **3 – Known but Informal:** The general issue was known but had not been formalized as a requirement.
+- **4 – Recognized but Under-specified:** The issue had been explicitly recognized and discussed but remained under-specified.
+- **5 – Documented and Backlogged:** The issue was known and a proposed solution was formally documented in the project backlog, awaiting implementation.
+
+Higher scores indicate greater prior recognition and formalization in field practice.
 ---
 
 ## Requirement Groupings
